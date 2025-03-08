@@ -1,0 +1,23 @@
+{
+  "name": "cdp_bob",
+  "version": "1.0.0",
+  "description": "kurs CDP",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d0minikjankowski/CDP_Bob.git"
+  },
+  "author": "Bobiczkowy Bob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d0minikjankowski/CDP_Bob/issues"
+  },
+  "homepage": "https://github.com/d0minikjankowski/CDP_Bob#readme",
+  "devDependencies": {
+    "cypress": "^14.1.0",
+    "@faker-js/faker": "^9.6.0"
+  }
+}
