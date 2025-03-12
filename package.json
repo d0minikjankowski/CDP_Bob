@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/d0minikjankowski/CDP_Bob#readme",
   "devDependencies": {
-    "cypress": "^14.1.0",
-    "@faker-js/faker": "^9.6.0"
+    "@faker-js/faker": "^9.6.0",
+    "cypress": "^14.1.0"
   }
 }
